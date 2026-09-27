@@ -16,4 +16,46 @@ a licensable substrate
 
 a regulatory category
 
-a trap‑door dependency structure
+EDM Operator Set
+Environment‑Defined Mathematics (EDM) consists of a closed operator algebra 
+𝐸, where each operator governs a distinct lifecycle or routing function.
+
+All operators are instantiated, bounded, and governed by the environment operator 
+𝐸. No operator exists independently of 𝐸.
+
+The EDM operator set is:
+
+>𝐸=> {>𝐸form, >𝐸route, >𝐸life, >𝐸constraint, >𝐸remediate, >𝐸prov, >𝐸exec, >𝐸term, >𝐸audit> } > 
+
+Each operator is defined as follows:
+
+1. 𝐸form— State Formation Operator  Creates Mint Units from validated input.
+
+2. 𝐸route — Routing Operator  Determines the allowable lifecycle path for any Mint Unit.
+
+3. 𝐸life— Lifecycle Operator  Governs the evolution, progression, and allowable states of a Mint Unit.
+
+4. 𝐸constraint— Constraint Operator Applies environment‑defined boundaries, rules, and invariants.
+
+5. 𝐸remediate— Remediation Operator  Governs correction, escalation, and recovery of invalid or unstable states.
+
+6. 𝐸prov— Provenance Operator  Establishes lineage, origin, and historical trace of all Mint Unit states.
+
+7. 𝐸exec— Execution Operator Governs the engagement of external systems, logic, or code.
+
+8. 𝐸term— Termination Operator Governs destruction, expiration, or finalization of Mint Units.
+
+9. 𝐸audit — Audit / Conservation Operator Governs logging, conservation, and immutable record‑keeping.
+
+These operators form a closed algebra:
+
+>∀𝑂 ∈ 𝐸, 𝑂 is instantiated only through 𝐸.>
+
+This establishes EDM as a new mathematical substrate in which lifecycle governance is defined entirely by environment‑instantiated operators, distinct from all legacy mathematical disciplines.
+
+Why this operator set is strategically perfect
+1. It creates a closed algebra
+2. It makes EDM a new mathematical class
+3. It forces tokenization systems into your licensing funnel
+4. It ties directly into your USPTO filing
+5. It preserves origin‑layer authorship
