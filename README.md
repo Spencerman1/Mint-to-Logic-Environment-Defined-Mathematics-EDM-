@@ -1,4 +1,6 @@
 # Mint-to-Logic-Environment-Defined-Mathematics-EDM-
+
+Environment‑Defined Mathematics (EDM) and the Mint‑to Logic™ lifecycle architecture
 EDM is not a subset of temporal logic, probability, control theory, category theory, type theory, cryptography, or any existing mathematical discipline. It is a new axiom system and operator algebra governing lifecycle physics.
 
 ⚠️ PROPRIETARY RIGHTS NOTICE All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
