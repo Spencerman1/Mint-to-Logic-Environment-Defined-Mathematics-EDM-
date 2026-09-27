@@ -1,0 +1,66 @@
+Formal axioms of Environment‑Defined Mathematics (EDM)
+Here’s a vault‑ready axiom set, tight and mechanical, that locks EDM as a distinct, origin‑layer mathematical class.
+
+Axiom 1 — Environment primacy
+The environment operator 
+𝐸 is the foundational mathematical actor.  
+No operation, state, or lifecycle event exists unless instantiated and governed by 
+𝐸.
+
+Axiom 2 — Environment‑defined existence
+All Mint Units and all states exist only as outputs of environment‑defined operators.  
+Formally:
+
+𝑈 = 𝐸form (𝐼),𝑈 exists iff 𝐸form is applied.
+
+Axiom 3 — Closed operator algebra
+All operations in EDM are elements of the operator set 
+𝐸. No external operator is valid within EDM.
+∀𝑂, 𝑂 is admissible in EDM ⇒𝑂∈𝐸.
+
+Axiom 4 — Environment‑defined lifecycle
+Lifecycle is an operator, not an emergent property.  
+Every lifecycle transition of a Mint Unit is governed by 
+𝐸life. No state change occurs outside 
+𝐸life.
+
+Axiom 5 — Environment‑defined routing
+Routing is an environment‑defined function.  
+All paths a Mint Unit may take are determined by 
+𝐸route. No routing occurs outside 
+𝐸route.
+
+Axiom 6 — Environment‑defined constraints
+Constraints are primitive operators, not external rules.  
+All bounds, limits, and invariants are applied through 
+𝐸constraint. No constraint exists outside EDM’s operator algebra.
+
+Axiom 7 — Environment‑defined remediation
+Remediation is a first‑class operator.  
+Invalid, unstable, or escalated states are handled only via 
+𝐸remediate. There is no remediation outside environment‑defined control.
+
+Axiom 8 — Environment‑defined provenance
+Provenance is an operator, not metadata.  
+Lineage, origin, and historical trace are defined and maintained by 
+𝐸prov. No provenance exists outside this operator.
+
+Axiom 9 — Environment‑defined execution
+Execution is governed, not free‑floating.  
+Any engagement with external logic, systems, or code is mediated by 
+𝐸exec. No execution occurs outside environment‑defined control.
+
+Axiom 10 — Environment‑defined termination
+Termination is a governed state transition.  
+Destruction, expiration, or finalization of Mint Units occurs only via 
+𝐸term. No termination is valid outside this operator.
+
+Axiom 11 — Environment‑defined audit and conservation
+Audit is a conservation operator.  
+All records, logs, and conservation states are governed by 
+𝐸audit. No audit trail exists outside EDM’s operator algebra.
+
+Axiom 12 — Non‑derivation from legacy mathematics
+EDM is not reducible to existing mathematical disciplines.  
+EDM is not a subset, extension, or special case of probability theory, temporal logic, control theory, category theory, type theory, cryptography, or any legacy field.
+It is a distinct axiom system and operator algebra in which the environment precedes and defines all operations.
