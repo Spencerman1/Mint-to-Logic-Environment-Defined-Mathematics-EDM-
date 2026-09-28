@@ -25,11 +25,11 @@ All operators are instantiated, bounded, and governed by the environment operato
 
 The EDM operator set is:
 
->𝐸=> {>𝐸form, >𝐸route, >𝐸life, >𝐸constraint, >𝐸remediate, >𝐸prov, >𝐸exec, >𝐸term, >𝐸audit> } > 
+E = ( Eform , Eroute , Elife , Econstraint , Eremediate , Eprov , Eexec , Eterm , Eaudit )
 
 Each operator is defined as follows:
 
-1. 𝐸form— State Formation Operator  Creates Mint Units from validated input.
+1. 𝐸form— State Formation Operator  Creates Mint‑Units, which are environment‑defined mathematical state objects, from validated input.
 
 2. 𝐸route — Routing Operator  Determines the allowable lifecycle path for any Mint Unit.
 
@@ -51,7 +51,8 @@ These operators form a closed algebra:
 
 >∀𝑂 ∈ 𝐸, 𝑂 is instantiated only through 𝐸.>
 
-This establishes EDM as a new mathematical substrate in which lifecycle governance is defined entirely by environment‑instantiated operators, distinct from all legacy mathematical disciplines.
+This establishes EDM as a new mathematical substrate in which lifecycle governance is defined entirely by environment‑instantiated operators, 
+distinct from all legacy mathematical disciplines, including state machines, workflow engines, token lifecycles, access lifecycles, and control‑theory models.
 
 Why this operator set is strategically perfect
 1. It creates a closed algebra
@@ -59,3 +60,6 @@ Why this operator set is strategically perfect
 3. It forces tokenization systems into your licensing funnel
 4. It ties directly into your USPTO filing
 5. It preserves origin‑layer authorship
+
+Because these operators are inseparable from the SSPS substrate, any system performing these functions must license Mint‑to Logic™, which automatically invokes 
+SSPS licensing obligations.
