@@ -1,3 +1,5 @@
+Mint‑Units are environment‑defined mathematical state objects.
+
 Formal axioms of Environment‑Defined Mathematics (EDM)
 Here’s a vault‑ready axiom set, tight and mechanical, that locks EDM as a distinct, origin‑layer mathematical class.
 
@@ -64,3 +66,7 @@ Axiom 12 — Non‑derivation from legacy mathematics
 EDM is not reducible to existing mathematical disciplines.  
 EDM is not a subset, extension, or special case of probability theory, temporal logic, control theory, category theory, type theory, cryptography, or any legacy field.
 It is a distinct axiom system and operator algebra in which the environment precedes and defines all operations.
+
+Axiom 13 — Substrate inseparability (mandatory licensing axiom)
+All operators instantiated by 𝐸 are inseparable from the SSPS substrate.
+Any system performing these operators automatically invokes SSPS licensing obligations.
