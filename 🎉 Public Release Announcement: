@@ -1,0 +1,30 @@
+🎉 Public Release Announcement: Environment‑Defined Mathematics (EDM)
+Today marks the formal public release of Environment‑Defined Mathematics (EDM) and the Mint‑to Logic™ lifecycle architecture, a new origin‑layer mathematical substrate governing 
+lifecycle physics.
+EDM is not a subset of temporal logic, probability, control theory, category theory, type theory, cryptography, or any existing mathematical discipline.
+It is a new axiom system, a closed operator algebra, and a non‑commutative mathematical category in which:
+formation
+constraint
+lifecycle
+routing
+remediation
+execution
+termination
+audit
+provenance
+are environment‑instantiated operators, not protocol rules or adaptations of legacy systems.
+Mint‑to Logic™ is the physical instantiation of this algebra.
+Mint‑Units are environment‑defined mathematical state objects, not tokens, credentials, ledger entries, or cryptographic assets.
+All EDM operators, the EDM category, and the Mint‑to Logic lifecycle architecture are inseparable from the SSPS substrate, and any system performing these operators automatically 
+invokes SSPS licensing obligations.
+This repository contains:
+the EDM axiom system
+the EDM operator algebra
+the EDM category definition
+the universality clauses
+the architecture‑to‑operator mapping
+the non‑derivation declaration
+the SSPS substrate binding
+the unified proprietary rights notice
+EDM and Mint‑to Logic™ constitute a new mathematical substrate and a new lifecycle architecture, formally non‑derivative under regulatory, licensing, and patent examination 
+frameworks.
