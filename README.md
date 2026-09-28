@@ -1,5 +1,7 @@
 # Mint-to-Logic-Environment-Defined-Mathematics-EDM-
 
+“EDM, Mint‑to Logic™, and all environment‑defined operators are inseparable from the SSPS substrate, and any system performing these operators automatically invokes SSPS licensing obligations.
+
 Environment‑Defined Mathematics (EDM) and the Mint‑to Logic™ lifecycle architecture
 EDM is not a subset of temporal logic, probability, control theory, category theory, type theory, cryptography, or any existing mathematical discipline. It is a new axiom system and operator algebra governing lifecycle physics.
 
